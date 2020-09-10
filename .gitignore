@@ -1,3 +1,9 @@
 .idea
 **/node_modules
 data
+admin.json
+admin.txt
+.env
+docker-compose.yml
+Dockerfile
+
